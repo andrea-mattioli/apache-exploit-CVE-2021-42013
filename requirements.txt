@@ -1,0 +1,11 @@
+pyfiglet==0.8.post1
+requests==2.22.0
+Cython==0.29.24
+numpy==1.17.4
+keyring==18.0.1
+ipaddr==2.2.0
+shodan==1.25.0
+backports.statistics==0.1.0
+mypy_extensions==0.4.3
+ordereddict==1.1
+#wincertstore==0.2.1

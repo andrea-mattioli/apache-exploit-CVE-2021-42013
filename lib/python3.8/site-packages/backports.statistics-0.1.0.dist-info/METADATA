@@ -1,0 +1,31 @@
+Metadata-Version: 2.0
+Name: backports.statistics
+Version: 0.1.0
+Summary: statistics backport 2.6 - 3.3
+Home-page: https://github.com/graingert/backports.statistics
+Author: Thomas Grainger
+Author-email: backports.statistics@graingert.co.uk
+License: PSFL
+Keywords: statistics
+Platform: platform independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Python Software Foundation License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+
+Backport of http://docs.python.org/3.4/library/statistics.htm
+
+
